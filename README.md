@@ -8,18 +8,7 @@
 - 💼 技術長 [Gotoo.Inc](https://gotoo.co)
 - 🎓 國立臺中第一高級中學 普通科 畢業
 - 🎓 中華人民共和國湖北省華中科技大學 軟件工程學院交換學生
-- 🎓 國立臺中教育大學 資訊工程學系 學士班 休學
-
-#### Skill
-<img src="http://konpa.github.io/devicon/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> 
-<img src="http://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="symfony" width="40" height="40"/> 
-<img src="http://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="symfony" width="40" height="40"/> 
-<img src="http://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="symfony" width="40" height="40"/> 
-<img src="http://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="symfony" width="40" height="40"/> 
-<img src="http://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="symfony" width="40" height="40"/> 
-<img src="http://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="symfony" width="40" height="40"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-
+- 🎓 國立臺中教育大學 資訊工程學系 學士班 休
 
 
 </td><td valign="top" width="40%">
