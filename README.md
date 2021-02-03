@@ -17,13 +17,10 @@
 
 + 電話：+886970756933
 + 電子郵件：floatflower1029@gmail.com
++ Blog: https://floatflower.me
 + Facebook：https://www.facebook.com/floatflower
 + Medium：https://medium.com/floatflower-me
 + Dev.to：https://dev.to/floatflower
 + Pixiv：https://www.pixiv.net/users/21642986
 
 </td></tr></table>
-
-### Posts List
-+ [前端異步 AJAX 請求的重複使用](https://dev.to/floatflower/ajax-414j)
-+ [用 Cloudflare Worker 來佈署靜態網頁](https://dev.to/floatflower/cloudflare-worker-11ki)
